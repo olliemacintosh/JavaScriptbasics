@@ -1,3 +1,4 @@
-# My Game is Cool!
+# basic javascript
 
-Make sure you give it a good description here...
+this is were my code is
+iyftiydfyughbn
